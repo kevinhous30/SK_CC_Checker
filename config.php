@@ -10,7 +10,9 @@ $owner = 'PHCC0D3r';
 $forceHttps = false; //Highly Recommended if SSL Certificate/HTTPS is available
 $forceAuth = true; //Require Users to input AuthPass
 // $AuthPass = 'PHC-Coder'; 
-$AuthPass_Hashed = '$2y$10$4qxwi.5zyg68xAIDGbPWjeCUuTPiJMxwWhVpPqVp8Q41fq72zX.ou';
+//$AuthPass_Hashed = '$2y$10$4qxwi.5zyg68xAIDGbPWjeCUuTPiJMxwWhVpPqVp8Q41fq72zX.ou';
+// $AuthPass = 'kevin'; 
+$AuthPass_Hashed = '$2a$12$XtT0BnVTJOSMo/fKv8xzlurDPBggaE9XzRYXCVx60vzvH5PCk2R26';
 
 //-----------------------------------------------------------------------------------------//
 //Telegram Bot Informations
