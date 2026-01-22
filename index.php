@@ -89,8 +89,9 @@ if ($forceAuth && !isset($_SESSION["Auth"])) {
 								echo '<option style="background:'.$theme_background.'" value="'.$api_file[$i].'">'.$api_name[$i].'</option>';
 								}?>	
 							</select>
+							<!--
 							<div class="input-group-append">
-							<!-- <button class="btn btn-outline-danger" type="button" onclick="Settings();"> -->
+							 <button class="btn btn-outline-danger" type="button" onclick="Settings();"> 
 
 								
 									<svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-gear" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
@@ -100,6 +101,7 @@ if ($forceAuth && !isset($_SESSION["Auth"])) {
 								</button>
 								<button class="btn btn-outline-danger" type="button" onclick="modalCCGEN();">CC Gen</button>
 							</div>
+							-->
 						</div>
 						
 					</div>
