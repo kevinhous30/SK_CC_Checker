@@ -14,9 +14,10 @@ $AuthPass_Hashed = '$2y$10$4qxwi.5zyg68xAIDGbPWjeCUuTPiJMxwWhVpPqVp8Q41fq72zX.ou
 
 //-----------------------------------------------------------------------------------------//
 //Telegram Bot Informations
-$bot_name = "PHC-Coder Bot"; //change this to any bot name you want.
-$bot_token = "6712628077:AAHHWyk04_vfIcub5wY8RFqJ4XkkFoo5aok"; //change this to your own bot Token.
+$bot_name = "Kevin_CheckCC_bot"; //change this to any bot name you want.
+$bot_token = "8208804712:AAHGL-Gipr6vUf0cqBiQKh-pfoRBC3rH6PQ"; //change this to your own bot Token.
 $token_url = 'https://api.telegram.org/bot'.$bot_token;
+
 
 
 //-----------------------------------------------------------------------------------------//
